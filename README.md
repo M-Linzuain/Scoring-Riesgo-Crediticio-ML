@@ -1,7 +1,5 @@
 # 💳 Scoring de Riesgo Crediticio y Workstation de Originación (ML + SHAP)
 
-[![Streamlit App] https://scoring-riesgo-crediticio-ml.streamlit.app/
-
 Sistema *end-to-end* de evaluación de riesgo crediticio construido sobre el dataset **Give Me Some Credit** (150.000 solicitudes reales), integrando auditoría relacional en **SQL (DuckDB)**, ingeniería de características financieras libre de *data leakage*, modelado comparativo con **XGBoost / LightGBM** y despliegue interactivo en **Streamlit Cloud** con explicabilidad individual mediante **SHAP**.
 
 🚀 **Aplicación Interactiva en Vivo:** https://scoring-riesgo-crediticio-ml.streamlit.app/
